@@ -112,7 +112,7 @@ function Preview({
           </div>
         </div>
       ) : (
-        <div className="rounded-full h-4 w-4 border animate-spin border-dark-blue border-t-transparent"></div>
+        <p> No user data available</p>
       )}
     </div>
   );
